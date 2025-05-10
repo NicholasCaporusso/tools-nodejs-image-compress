@@ -1,4 +1,4 @@
-# Image compresison utility
+# Image compression utility
 
 A simple Node.js CLI tool to aggressively compress JPEG and PNG images with near-lossless quality.
 
